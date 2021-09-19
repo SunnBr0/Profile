@@ -3,7 +3,7 @@ layout: page.njk
 ---
 
 # Верстка персональной страницы
-=======
+
 Вот ссылка на сайт моего профиля [Владимир Воронов](https://sunnbr0.github.io/Profile/)
 
 ## Воронов Владимир Дмитриевич 
@@ -21,7 +21,7 @@ layout: page.njk
     * _любимый цвет - желтый_
     * _помогать и обучать других_
 
-<<<<<<< HEAD
+
 ## __Социальные Сети:__ 
 - Mail - vova.voronov.2002@bk.ru
 - Telegram - @vlaaadiimir 
@@ -30,7 +30,7 @@ layout: page.njk
 =======
 Текст после второго заголовк
 
->>>>>>> 963a3e33cf3eac3b46ae79e61721995cdb0da969
+
 
 ##### Не только для связей еще есть такое:
 - [Spotify](https://open.spotify.com/user/u9nq7b7f59d7io3mbh0iv7wrs?si=ec99f1beda7844ec)
